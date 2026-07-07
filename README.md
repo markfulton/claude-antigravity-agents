@@ -69,13 +69,19 @@ Two one-time steps.
 
 **1. Install the Antigravity CLI.**
 
+On macOS / Linux:
+
+```bash
+curl -fsSL https://antigravity.google/cli/install.sh | bash
+```
+
 On Windows (PowerShell):
 
 ```powershell
 irm https://antigravity.google/cli/install.ps1 | iex
 ```
 
-On macOS / Linux, follow the official instructions: **https://antigravity.google/docs/cli/getting-started**
+Full details are in the official guide: **https://antigravity.google/docs/cli/getting-started**
 
 **2. Sign in to Google.**
 
