@@ -1,6 +1,6 @@
 <div align="center">
 
-# Claude Antigravity Agents
+# Claude Code Antigravity Agents
 
 *Turn Claude Code into an orchestrator — delegate heavy jobs to Google Antigravity sub-agents while it keeps building.*
 
