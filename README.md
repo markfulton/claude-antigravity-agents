@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛰️ claude-antigravity-agents
+# Claude Antigravity Agents
 
 *Turn Claude Code into an orchestrator — delegate heavy jobs to Google Antigravity sub-agents while it keeps building.*
 
@@ -11,7 +11,7 @@
 [![Platform](https://img.shields.io/badge/Windows_%7C_macOS_%7C_Linux-Ready-2B2B2B?style=for-the-badge&logo=powershell&logoColor=white)](#prerequisites)
 [![License](https://img.shields.io/badge/License-MIT-3FB950?style=for-the-badge)](#license)
 
-**Created by [Mark Fulton](https://markfulton.com)** · Founder of the [Vibe Coding is Life](https://facebook.com/groups/vibecodinglife) community (300k+ members) · Co-authored by Claude Fable 5
+**Created by [Mark Fulton](https://markfulton.com)** · Founder of the **[Vibe Coding is Life](https://facebook.com/groups/vibecodinglife)** community (300k+ members) · Co-authored by Claude Fable 5
 
 </div>
 
@@ -140,7 +140,7 @@ That rule drives how every job runs:
 ## Attribution
 
 - **Created by [Mark Fulton](https://markfulton.com)**
-- Founder of the [Vibe Coding is Life](https://facebook.com/groups/vibecodinglife) community (300k+ members)
+- Founder of the **[Vibe Coding is Life](https://facebook.com/groups/vibecodinglife)** community (300k+ members)
 - Co-authored by **Claude Fable 5**
 
 ## License
